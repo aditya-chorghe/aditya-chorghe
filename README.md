@@ -26,7 +26,9 @@ I am an MCA student interested in Data Analytics, SQL, database management, and 
 Pillai HOC College of Engineering & Technology | 2025 - 2027
 
 **Bachelor of Science in Information Technology (BSc IT)**
+
 Changu Kana Thakur Arts, Commerce & Science | 2022–2025
+
 CGPA: 8.53
 
 ## 📜 Certifications
@@ -37,7 +39,8 @@ CGPA: 8.53
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** https://www.linkedin.com/in/aditya-chorghe-/
+- **LinkedIn:** [Aditya Chorghe](https://www.linkedin.com/in/aditya-chorghe-/)
+- **GitHub:** [Aditya Chorghe](https://github.com/aditya-chorghe)
 
 ---
 
