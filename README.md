@@ -7,9 +7,9 @@ I am an MCA student interested in Data Analytics, SQL, database management, and 
 ## 🛠️ Technical Skills
 
 - **SQL & Database:** SQL, MySQL, DBMS
-- **Programming:** Python
-- **Data Visualization:** Power BI
-- **Spreadsheet:** Microsoft Excel
+- **Programming:** Python (Currently Learning)
+- **Data Visualization:** Power BI (Basic)
+- **Spreadsheet:** Microsoft Excel (Currently Learning)
 
 ## 📂 Projects
 
