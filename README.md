@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Aditya Chorghe 👋
 
-<!--
-**aditya-chorghe/aditya-chorghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am an MCA student interested in Data Analytics, SQL, database management, and data visualization. I am continuously developing my technical skills and working on practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **SQL & Database:** SQL, MySQL, DBMS
+- **Programming:** Python
+- **Data Visualization:** Power BI
+- **Spreadsheet:** Microsoft Excel
+
+## 📂 Projects
+
+### SQL Mini Project – City Health Clinic Appointment System
+
+- Designed a relational database using MySQL.
+- Created tables with Primary Keys and Foreign Keys.
+- Practised INNER JOIN, LEFT JOIN, GROUP BY, HAVING, and aggregate functions.
+- Worked with doctors, patients, departments, appointments, and medicines data.
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+Pillai HOC College of Engineering & Technology
+
+## 📜 Certifications
+
+- Introduction to Data Warehousing and Data Mining
+- Web Technology
+- Programming Basics of Python – Infosys
+
+## 📫 Connect with Me
+
+- **LinkedIn:** https://www.linkedin.com/in/aditya-chorghe-/
+
+---
+
+*Learning | Practising | Growing in Data Analytics*
