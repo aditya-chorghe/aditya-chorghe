@@ -6,7 +6,7 @@ I am an MCA student interested in Data Analytics, SQL, database management, and 
 
 ## 🛠️ Technical Skills
 
-- **SQL & Database:** SQL, MySQL, DBMS
+- **SQL & Database:** SQL, MySQL Queries, DBMS
 - **Programming:** Python (Currently Learning)
 - **Data Visualization:** Power BI (Basic)
 - **Spreadsheet:** Microsoft Excel (Currently Learning)
@@ -23,7 +23,11 @@ I am an MCA student interested in Data Analytics, SQL, database management, and 
 ## 🎓 Education
 
 **Master of Computer Applications (MCA)**  
-Pillai HOC College of Engineering & Technology
+Pillai HOC College of Engineering & Technology | 2025 - 2027
+
+**Bachelor of Science in Information Technology (BSc IT)**
+Changu Kana Thakur Arts, Commerce & Science | 2022–2025
+CGPA: 8.53
 
 ## 📜 Certifications
 
